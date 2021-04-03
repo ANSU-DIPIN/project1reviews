@@ -28,5 +28,17 @@ Saved the same as the csv file Review_MICROPHONE_new.csv.csv
 
 ![image](https://user-images.githubusercontent.com/71720761/113474730-58718180-948f-11eb-8501-70572642482b.png)
 
-# 4.Bar Plot
-![image](https://user-images.githubusercontent.com/71720761/113474796-bb631880-948f-11eb-99a2-4ce08ddee66c.png)
+# 4.EDA
+
+Bar Plots
+
+![image](https://user-images.githubusercontent.com/71720761/113474846-f9f8d300-948f-11eb-8288-c481fee6d3ad.png)
+
+![image](https://user-images.githubusercontent.com/71720761/113474857-0bda7600-9490-11eb-8fd1-d3fd2810d1e4.png)
+
+Word Cloud for whole corpus
+
+![image](https://user-images.githubusercontent.com/71720761/113474879-2b719e80-9490-11eb-9d6e-8f998321e65a.png)
+
+
+
