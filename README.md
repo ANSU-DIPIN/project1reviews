@@ -1,6 +1,6 @@
 # project1reviews
 
-Project Name: Review Analysis for A product Listed on Amazon
+# Project Name: Review Analysis for A product Listed on Amazon
 
 # Contents
 
@@ -21,6 +21,12 @@ Project Name: Review Analysis for A product Listed on Amazon
 
 ⮚	Classification of the reviews to be done on a weekly basis using the algorithm. Entire application should work Automatically.
 
+# 3.DATA EXTRACTION
 
+Extracted 5000 Amazon customer reviews of the product Boya-Omnidirectional-Lavalier-Condenser-Microphone
+Saved the same as the csv file Review_MICROPHONE_new.csv.csv
 
 ![image](https://user-images.githubusercontent.com/71720761/113474730-58718180-948f-11eb-8501-70572642482b.png)
+
+# 4.Bar Plot
+![image](https://user-images.githubusercontent.com/71720761/113474796-bb631880-948f-11eb-99a2-4ce08ddee66c.png)
