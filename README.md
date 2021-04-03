@@ -9,9 +9,11 @@ Project Name: Review Analysis for A product Listed on Amazon
 
 # 1.Introduction
 
-Reviews for a specific product are extracted . 
-Generated  insights from the text data by applying various text mining methods. 
-Sentiments (positive, negative, neutral, … are determined, by the model deployed, based on the new reviews from the website.  
+* Reviews for a specific product are extracted . 
+
+* Generated  insights from the text data by applying various text mining methods. 
+
+* Sentiments (positive, negative, neutral, … are determined, by the model deployed, based on the new reviews from the website.  
 
 # 2.Business Objective:
 
