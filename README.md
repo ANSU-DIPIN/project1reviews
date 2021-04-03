@@ -2,6 +2,8 @@
 
 Project Name: Review Analysis for A product Listed on Amazon
 
+# Contents
+
 ![image](https://user-images.githubusercontent.com/71720761/113471286-0cb3dd80-9479-11eb-856e-d8150a659451.png)
 
 Business Objective:
@@ -11,26 +13,7 @@ Business Objective:
 ⮚	Classification of the reviews to be done on a weekly basis using the algorithm. Entire application should work Automatically.
 
 
-Data: 
 
-Reviews to be extracted from amazon for specific product given for your team.
-
-Exploratory Data Analysis:
-
-Apply various text mining methods and generate Insights from the text data.
-
-
-# Contents
-
-1.     Introduction
-2.     Business Objective
-3.     Data Extraction 
-4.     EDA
-5.     Model Building
-6.     Model Evaluation
-7.     Feedback
-8.     Deployment
-9.     Reparation for Phase 2
 
 # Introduction
 
